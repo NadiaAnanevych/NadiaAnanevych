@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nadia Bednarek (Ananevych)</h1>
 <h3 align="center">A passionate Quality Assurance Engineer</h3>
 
-- 🔭 I’m currently working on [American Eagle project](https://www.ae.com/us/en)
+- 🔭 I’m currently working on [American Eagle project]([https://www.ae.com/us/en](https://github.com/NadiaAnanevych/AmericanEagleTests))
 
 - 🌱 I have completed learning **Appium framework**
 
